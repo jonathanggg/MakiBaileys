@@ -5,7 +5,7 @@ Esta librería está bajo **Licencia MIT**
 
 ---
 
-<h1><img alt="Baileys logo" src="https://files.catbox.moe/k7x02e.png" height="75"/></h1>
+<h1><img alt="Baileys logo" src="" height="75"/></h1>
 
 # AdonixBaileys
 
