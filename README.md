@@ -7,11 +7,11 @@ Esta librería está bajo **Licencia MIT**
 
 <h1><img alt="Baileys logo" src="" height="75"/></h1>
 
-# AdonixBaileys
+# MakiBaileys
 
 ¡Hola! Este es mi fork personalizado del proyecto [Baileys](https://github.com/WhiskeySockets/Baileys).  
 Mi objetivo es comprender a fondo la API de WhatsApp Web y añadir mejoras propias para futuros proyectos.  
-Creado con cariño por **Ado** ✨
+Creado por **Félix OFC**
 
 ---
 
